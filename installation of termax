@@ -1,0 +1,13 @@
+Post-Installation Setup
+Update Termux Packages:
+
+Open Termux and run the following commands to update the package list and upgrade installed packages:
+
+pkg update
+pkg upgrade
+Install Essential Packages:
+
+You might want to install some basic packages to get started. For example:
+
+pkg install git vim
+This will set up Termux and get you started with a basic Linux environment on your Android device. Let me know if you need more details on using Termux or additional setup!
